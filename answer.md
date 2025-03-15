@@ -13,6 +13,10 @@ VirtualBox автоматически настраивает виртуальн�
 
 ![image](https://github.com/user-attachments/assets/64ac3f15-7eef-417e-a12c-3f764ecc596d) <tb>
 
+На Ubuntu подключаю Адаптер 2 и Адаптер 3 к виртуальным сетям 1 и 2 соответсвенно.
+ ![image](https://github.com/user-attachments/assets/795f5ff8-4769-4870-a10e-97af5e7671a0)
+ ![image](https://github.com/user-attachments/assets/eaaf1126-a4ef-4d8a-ae71-7f96e3b00fab)
+
 
 
 
